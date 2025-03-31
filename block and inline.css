@@ -1,0 +1,25 @@
+.dillon {
+    width: 1000px;
+    height: 800px;
+    background-color: aquamarine;
+    margin: auto;
+    display: flex;
+}
+.food {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: auto;
+}
+.ice {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: auto;
+}
+.eggs {
+    width: 100px;
+    height: 100px ;
+    background-color: brown;
+    margin: auto;
+}
