@@ -1,0 +1,7 @@
+p{font-size:80px;}
+@media screen and (max-width: 800px) {
+    p{font-size: 40px;}
+    }
+    @media screen and (max-width: 600px) {
+        p{color: red;}
+        }
